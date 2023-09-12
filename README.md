@@ -34,7 +34,7 @@
                    Telegram: <a href="https://t.me/daria_yoshikawa" target="_blank"> @daria_yoshikawa</a>
                 </li>
                 <li>
-                  email:<a href="mailto:aska.appla@gmail.com" target="_blank"> aska.appla@gmail.com </a>
+                  email: aska.appla@gmail.com </a>
                 </li>
                 <li>
                   Discord: daria_yoshikawa
