@@ -40,7 +40,7 @@
                   Discord: daria_yoshikawa
                 </li>
                   <li>
-                  Linkedin.com: <a href="https://t.me/linkedin.com/in/daria-zvereva-5833b6288" target="_blank"> daria_yoshikawa</a>
+                  Linkedin.com: <a href="https://www.linkedin.com/in/daria-zvereva-5833b6288/" target="_blank"> daria_yoshikawa</a>
                 </li>
     </center>
 </body>
