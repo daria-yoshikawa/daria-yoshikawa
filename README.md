@@ -31,10 +31,13 @@
                <br>
             <h2 align="center">   📝 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 📝 </h2>
                    <li>
-                   Telegram: <a href="https://t.me/daria_yoshikawa"> @daria_yoshikawa</a>
+                   Telegram: <a href="https://t.me/daria_yoshikawa" target="_blank"> @daria_yoshikawa</a>
                 </li>
                 <li>
-                  Discord: <a href="https://discord.me/daria_yoshikawa" target="_blank">daria_yoshikawa</a></p>
+                  email:<a href="mailto:aska.appla@gmail.com" target="_blank"> aska.appla@gmail.com </a>
+                </li>
+                <li>
+                  Discord: daria_yoshikawa
                 </li>
     </center>
 </body>
